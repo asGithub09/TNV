@@ -1,0 +1,12 @@
+.parentAndStudentButton {
+  cursor: pointer;
+  height: 80px;
+  width: 50%;
+  border-radius: 7px;
+}
+
+.parentAndStudentButton:hover {
+  border: 2px solid #087990;
+  color: #087990;
+  background-color: rgb(2, 34, 48);
+}
